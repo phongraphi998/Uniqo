@@ -59,10 +59,10 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/images/200304_Olive_PadThai-ebe0f22-scaled.webp
-    - assets/images/OLI-0519-Healthy_GreenThaiFishCurry_32208-c3cee9a.webp
-    - assets/images/p110-20250121rps2352pumpkincurrypreview-8534543.webp
-    - assets/images/p133-20250121rps2352northernlarbpreview-1-0ac4d35.webp
+    - assets/images/goods_478247_sub14_3x4.webp
+    - assets/images/thgoods_69_461003_3x4.webp
+    - assets/images/thgoods_07_481442_3x4 (1).webp
+    - assets/images/thgoods_68_484882_3x4.webp
 
   
 
