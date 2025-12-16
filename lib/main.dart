@@ -94,7 +94,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             ),
             const SizedBox(height: 12),
-            const Text("I'm hungry "),
+            const Text("I'm hungry! "),
             const Text("Me too "),
           ],
         ),
