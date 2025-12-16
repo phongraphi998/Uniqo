@@ -22,6 +22,7 @@ class RecipeDetail extends StatelessWidget {
             // },
           ),
           Text(recipe.imgTitle),
+          
         ],
       ),
     );
